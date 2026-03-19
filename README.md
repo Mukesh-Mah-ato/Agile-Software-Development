@@ -3,3 +3,4 @@ the project is to creat and design GYM website where people can creat and become
 # Agile-Software-Development
 The project is designed to create and login the membership of GYM management system, where user can book training class, become member of the gym and so on.
 I have completed my loging and registration page of GYM web
+the project is helpfull for general and u
